@@ -35,3 +35,10 @@ a {
 th {
     background-color: dodgerblue;
 }
+.inputtd:hover{
+background-color: gainsboro;
+}
+.tdvariables:hover{
+    background-color: dodgerblue;
+
+}
